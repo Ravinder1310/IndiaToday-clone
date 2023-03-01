@@ -65,7 +65,7 @@
 
 ## Project Code:
 
-<h3>constuct-week</h3>
+<h3>IndiaToday-clone</h3>
 
 <br />
 <br />
